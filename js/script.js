@@ -17,7 +17,6 @@ function add(number1, number2) {
     return number7 / number8;
   }
 
-
  
   // User Interface Logic
 $(document).ready(function() {
