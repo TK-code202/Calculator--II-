@@ -18,7 +18,6 @@ function add(number1, number2) {
   }
 
 
-
  
   // User Interface Logic
 $(document).ready(function() {
