@@ -1,6 +1,6 @@
 # _Basic Calculator_
 
-#### _This is a basic calculator which performs the basic arithmetic operations._
+#### _This is a basic calculator which performs  basic arithmetic operations._
 
 #### By _Tofunmi Kusimo_
 
@@ -14,7 +14,7 @@
 
 ## Description
 
-_The application contains seperate forms for performing different arithmetic operations. The user inputs the numbers and the result is returned_
+_The application contains seperate forms for performing different arithmetic operations. The user inputs the numbers and the result is returned._
 
 ## Setup/Installation Requirements
 
