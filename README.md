@@ -14,7 +14,7 @@
 
 ## Description
 
-_The application contains seperate forms for performing different arithmetic operations. The user inputs the numbers and the result is returned._
+_The application contains separate forms for performing different arithmetic operations. The user inputs the numbers and the result is returned._
 
 ## Setup/Installation Requirements
 
